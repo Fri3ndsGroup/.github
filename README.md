@@ -1,5 +1,5 @@
 # 🎉 Welcome to Fri3nds Group! 🎉
-![Fri3nds Group](https://via.placeholder.com/800x400.png?text=Fri3nds+Group)  <!-- Replace this URL with the link to your image -->
+![Fri3nds Group](image1_0 (999))  <!-- Replace this URL with the link to your image -->
 
 Fri3nds Group started as a fun experiment among four friends passionate about technology and innovation. What began as a small nerdy club has grown into a diverse community of independent individuals united by our love for coding, creativity, and collaboration. 😎💻
 
