@@ -1,7 +1,7 @@
 # 🎉 Welcome to Fri3nds Group! 🎉
 <div style="display: flex; justify-content: space-between; align-items: center;">
-  <img src="https://github.com/Fri3ndsGroup/About.Me/blob/main/image1_0%20(999).jpg" alt="Fri3nds Group" height="390">
-  <img src="https://github.com/Fri3ndsGroup/About.Me/blob/main/image1_0%20(19).jpg" alt="Fri3nds Group" height="390">
+  <img src="https://github.com/Fri3ndsGroup/About.Me/blob/main/image1_0%20(999).jpg" alt="Fri3nds Group" height="410">
+  <img src="https://github.com/Fri3ndsGroup/About.Me/blob/main/image1_0%20(19).jpg" alt="Fri3nds Group" height="410">
 </div>
 
 Fri3nds Group started as a fun experiment among four friends passionate about technology and innovation. What began as a small nerdy club has grown into a diverse community of independent individuals united by our love for coding, creativity, and collaboration. 😎💻
